@@ -1,2 +1,2 @@
-# Parcial-F-sica-1
-Solución de parciales de Física 1
+# Final Física 1
+Solución de finalesde Física 1
